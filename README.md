@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Tanisha
 
-##  Data Analyst | Ex-Accenture | Business & Customer Analytics
+##  Data Analyst | Ex-Accenture | Turning Business Data into Actionable Insights
 
 I come from a **business background** (BBA) with experience at **Accenture in international customer service**, which sparked my interest in understanding how **data drives decisions**. I’m actively building my skills in data analytics and tools like **SQL, Python, Excel, and Power BI** and a basic understanding in **Machine Learning as well** through hands-on projects to clean, analyze, and visualize data in ways that help businesses make smarter decisions. 
 
